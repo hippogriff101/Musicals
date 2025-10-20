@@ -1,0 +1,46 @@
+.happy-monkey-regular {
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+body {
+  background-color: #008CFF;
+  color: white;
+}
+
+.header {
+    font-weight: bold;
+    text-align: center;
+}
+.heading {
+    font-size: 80px;
+
+}
+.subhead{
+    font-size: 30px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #003c6e;
+}
+
+.border {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 20px;
+  background-color: #7CE3F8;
+  padding: 20px; 
+  width: 1000px;
+  margin: 20px auto;
+  color: black;
+}
+
+.images {
+  width: 150px;
+  height: auto;
+  margin-left: 20px;
+  border-radius: 10px; 
+}
