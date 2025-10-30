@@ -1,6 +1,9 @@
 # Musicals
 A HTML and CSS Website for Hack Club's YSWS *Fanpage*.
 
+![](https://hackatime-badge.hackclub.com/U078VN0UU2K/Musicals)
+
+
 ## Description
 
 **Musicals** is a site about musicals I have seen live. 
