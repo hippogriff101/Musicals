@@ -13,6 +13,17 @@ body {
 .header {
     text-align: center;
 }
+
+.header-link {
+  font-size: 20px;
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.header-link:hover {
+  background-color: white;
+  color: black;
+}
 .heading {
     font-size: 80px;
     font-weight: bold;
@@ -53,6 +64,13 @@ body {
   height: auto;
   margin-left: 20px;
   border-radius: 10px; 
+}
+
+.images-ect {
+  border-radius: 10px;
+  width: 300px; 
+  height: auto;
+  margin-left: 20px;
 }
 
 .text {
